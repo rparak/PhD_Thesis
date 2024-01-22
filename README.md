@@ -1,1 +1,3 @@
 # PhD_Thesis
+
+Kinematics Chaper -> This week ...

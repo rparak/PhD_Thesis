@@ -1,7 +1,7 @@
 # Design of Advanced Methods in the Field of Industrial Robotics fitting into the Concept of Industry 4.0.
 
 <p align="center">
-  <img src=https://github.com/rparak/PhD_Thesis/blob/main/images/image.png width="700" height="450">
+  <img src=https://github.com/rparak/PhD_Thesis/blob/main/images/image.png width="800" height="550">
 </p>
 
 # Abstract

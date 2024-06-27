@@ -15,4 +15,15 @@ Roman.Parak@outlook.com
 
 ## Citation (BibTex)
 
-
+```
+@phdthesis{RP_PhD_2024,
+  title        = {Design of Advanced Methods in the Field of Industrial Robotics fitting into the Concept of Industry 4.0},
+  author       = {Roman Parak},
+  year         = 2024,
+  month        = {March},
+  address      = {Brno, Czechia},
+  note         = {Available at \url{https://example.com/thesis.pdf}},
+  school       = {Brno University of Technology, Faculty of Mechanical Engineering, Institute of Automation and Computer Science},
+  type         = {PhD thesis}
+}
+```

@@ -21,6 +21,10 @@ The award ceremony took place at the historic Bethlehem Chapel, where I had the 
 Winners of the Werner von Siemens Prize 2024: [Siemens Press Release](https://www.siemenspress.cz/ceny-wernera-von-siemense-2024-udeleny-nejlepsim-studentum-mladym-vedcum-a-pedagogum/)
 
 Short Video: [Werner von Siemens Prize for the Best Doctoral Thesis on Industry 4.0](https://www.youtube.com/watch?v=QfBAgsSy1aQ)
+
+<p align="center">
+  <img src=https://github.com/rparak/PhD_Thesis/blob/main/images/RP_Siemens.jpg width="800" height="575">
+</p>
  
 ## Contact Info:
 Roman.Parak@outlook.com

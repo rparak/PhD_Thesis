@@ -23,7 +23,7 @@ Winners of the Werner von Siemens Prize 2024: [Siemens Press Release](https://ww
 Short Video: [Werner von Siemens Prize for the Best Doctoral Thesis on Industry 4.0](https://www.youtube.com/watch?v=QfBAgsSy1aQ)
 
 <p align="center">
-  <img src=https://github.com/rparak/PhD_Thesis/blob/main/images/RP_Siemens.jpg width="500" height="675">
+  <img src=https://github.com/rparak/PhD_Thesis/blob/main/images/RP_Siemens.jpg width="450" height="675">
 </p>
  
 ## Contact Info:

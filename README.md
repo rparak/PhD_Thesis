@@ -1,45 +1,69 @@
-# Design of Advanced Methods in the Field of Industrial Robotics fitting into the Concept of Industry 4.0.
+# Design of Advanced Methods in the Field of Industrial Robotics Fitting into the Concept of Industry 4.0
 
-Dissertation was conducted under the supervision of Prof. Radomil Matoušek at the Institute of Automation and Computer Science, Faculty of Mechanical Engineering, Brno University of Technology.
+**Ph.D. Thesis** · Roman Parák · Brno University of Technology, 2024
 
-# Abstract
+Supervisor: Prof. Radomil Matoušek
+Institute of Automation and Computer Science, Faculty of Mechanical Engineering, Brno University of Technology
 
-The significance of robot manipulators in engineering applications and scientific research has increased substantially in recent years. This surge can be attributed to the increased use of technologies such as autonomous robotics, digital twins, complex system integration, etc., along with the utilization of artificial intelligence techniques. The limitation in the use of these technologies may be associated with a focus on a specific type of robotic manipulator and a particular solved task, hindering modularity and reproducibility in future expansions.
-
-This dissertation focuses on the design and development of advanced methods in industrial robotics that are closely related to the principles of Industry 4.0. It encompasses the development of comprehensive kinematic solutions and motion planning strategies for various robotic manipulators, including under-articulated, articulated, and over-articulated structures. To ensure computational efficiency, a collision avoidance structure is designed to prevent collisions with external objects or self-collision. Within the area of motion planning, a key research objective involves exploring innovative methods using reinforcement learning. Another significant research objective relates to the design of a versatile robotic workstation in accordance with the Industry 4.0 concept. This entails incorporating vertical system integration for seamless interoperability and optimal interconnection of diverse systems within the workstation. The dissertation objective also includes the design of a sophisticated user interface and a unique simulation tool based on Unity3D. A critical aspect of this dissertation focuses on versatility, education, and future expansion. The purpose of this dissertation is to contribute not only to the advancement of industrial robotics but also to its application in educational settings.
-
-<p align="center">
-  <img src=https://github.com/rparak/PhD_Thesis/blob/main/images/image.png width="800" height="575">
-</p>
-
-# Werner von Siemens Prize for the Best Doctoral Thesis on Industry 4.0
-
-Ph.D. thesis, "Design of Advanced Methods in the Field of Industrial Robotics Fitting into the Concept of Industry 4.0," was honored with the Werner von Siemens Prize for the Best Doctoral Thesis on Industry 4.0.
-
-The award ceremony took place at the historic Bethlehem Chapel, where I had the privilege of receiving this recognition from Prof. Ing. Vladimír Mařík (Czech Institute of Informatics, Robotics, and Cybernetics) and Ing. Lukáš Vlček, Minister of Industry and Trade.
-
-Winners of the Werner von Siemens Prize 2024: [Siemens Press Release](https://www.siemenspress.cz/ceny-wernera-von-siemense-2024-udeleny-nejlepsim-studentum-mladym-vedcum-a-pedagogum/)
-
-Short Video: [Werner von Siemens Prize for the Best Doctoral Thesis on Industry 4.0](https://www.youtube.com/watch?v=QfBAgsSy1aQ)
+🏆 **Winner of the Werner von Siemens Prize 2024 for the Best Doctoral Thesis on Industry 4.0**
 
 <p align="center">
-  <img src=https://github.com/rparak/PhD_Thesis/blob/main/images/RP_Siemens.jpg width="450" height="675">
+  <img src="images/image.png" alt="Thesis overview" width="800">
 </p>
- 
-## Contact Info:
-Roman.Parak@outlook.com
 
-## Citation (BibTex)
+---
 
-```
+## Abstract
+
+Robotic manipulators have become increasingly important in both engineering practice and scientific research. This growth is driven by technologies such as autonomous robotics, digital twins, and complex system integration, combined with advances in artificial intelligence. However, existing solutions are often tailored to a specific manipulator type and a single task, which limits their modularity, reproducibility, and potential for future extension.
+
+This dissertation addresses that limitation by designing and developing advanced methods in industrial robotics aligned with the principles of Industry 4.0. The main contributions are:
+
+- **Kinematics** – comprehensive kinematic solutions for a wide range of robotic manipulators, including under-articulated, articulated, and over-articulated (redundant) structures.
+- **Motion planning** – motion planning strategies for these manipulators, including novel approaches based on **reinforcement learning**.
+- **Collision avoidance** – a computationally efficient collision-detection structure that prevents both collisions with external objects and self-collisions.
+- **Industry 4.0 robotic workstation** – the design of a versatile workstation featuring vertical system integration, enabling seamless interoperability between its heterogeneous components.
+- **User interface and simulation** – a user interface and a custom simulation tool built on **Unity3D**.
+
+Throughout the work, particular emphasis is placed on versatility, extensibility, and educational use. The thesis aims to advance the field of industrial robotics while also supporting its adoption in teaching and training.
+
+---
+
+## Award
+
+The thesis received the **Werner von Siemens Prize 2024 for the Best Doctoral Thesis on Industry 4.0**. The award was presented at the Bethlehem Chapel in Prague by Prof. Ing. Vladimír Mařík (Czech Institute of Informatics, Robotics and Cybernetics, CTU) and Ing. Lukáš Vlček, Minister of Industry and Trade of the Czech Republic.
+
+<p align="center">
+  <img src="images/RP_Siemens.jpg" alt="Werner von Siemens Prize award ceremony" width="450">
+</p>
+
+**Further information:**
+
+- [Siemens press release – Werner von Siemens Prize 2024 winners](https://www.siemenspress.cz/ceny-wernera-von-siemense-2024-udeleny-nejlepsim-studentum-mladym-vedcum-a-pedagogum/) (Czech)
+- [Brno University of Technology news article](https://www.vut.cz/en/but/news-f19528/werner-von-siemens-prizes-2024-but-celebrates-success-with-four-award-winners-d284514)
+- [Video: Werner von Siemens Prize for the Best Doctoral Thesis on Industry 4.0](https://www.youtube.com/watch?v=QfBAgsSy1aQ)
+
+---
+
+## Citation
+
+If you use this work in your research, please cite it as follows:
+
+```bibtex
 @phdthesis{RP_PhD_2024,
-  title        = {Design of Advanced Methods in the Field of Industrial Robotics fitting into the Concept of Industry 4.0},
-  author       = {Roman Parak},
-  year         = 2024,
-  month        = {March},
-  address      = {Brno, Czechia},
-  note         = {Available at \url{https://example.com/thesis.pdf}},
-  school       = {Brno University of Technology, Faculty of Mechanical Engineering, Institute of Automation and Computer Science},
-  type         = {PhD thesis}
+  title   = {Design of Advanced Methods in the Field of Industrial Robotics Fitting into the Concept of Industry 4.0},
+  author  = {Roman Par{\'a}k},
+  year    = {2024},
+  month   = {March},
+  school  = {Brno University of Technology, Faculty of Mechanical Engineering, Institute of Automation and Computer Science},
+  address = {Brno, Czechia},
+  type    = {Ph.D. thesis},
+  url     = {https://example.com/thesis.pdf}
 }
 ```
+
+---
+
+## Contact
+
+**Roman Parák** – [Roman.Parak@outlook.com](mailto:Roman.Parak@outlook.com)
